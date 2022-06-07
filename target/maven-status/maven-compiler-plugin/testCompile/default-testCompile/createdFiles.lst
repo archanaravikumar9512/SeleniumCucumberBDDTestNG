@@ -1,0 +1,3 @@
+com\testautomation\stepDefinitions\Hooks.class
+com\testautomation\stepDefinitions\PageTitleSteps.class
+com\testautomation\runners\TestRunner.class
